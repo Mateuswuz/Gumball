@@ -1,0 +1,68 @@
+{
+	"storyName": "gumbal",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"gumbal",
+			"gumbal",
+			[
+				66,
+				113,
+				253
+			]
+		],
+		[
+			"darwi",
+			"darwin",
+			[
+				235,
+				93,
+				53
+			]
+		],
+		[
+			"anai",
+			"anai",
+			[
+				255,
+				133,
+				233
+			]
+		],
+		[
+			"nicol",
+			"nicol",
+			[
+				66,
+				73,
+				195
+			]
+		],
+		[
+			"richa",
+			"richa",
+			[
+				226,
+				133,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "gumbal",
+	"hiddenUntilUnlocked": false
+}
