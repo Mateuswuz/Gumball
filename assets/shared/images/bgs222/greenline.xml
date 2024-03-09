@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greenline.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="greenline0000" x="15" y="15" width="273" height="79" frameX="0" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0001" x="15" y="15" width="273" height="79" frameX="0" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0002" x="15" y="15" width="273" height="79" frameX="0" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0003" x="15" y="15" width="273" height="79" frameX="0" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0004" x="15" y="109" width="301" height="56" frameX="0" frameY="-3" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0005" x="15" y="109" width="301" height="56" frameX="0" frameY="-3" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0006" x="15" y="109" width="301" height="56" frameX="0" frameY="-3" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0007" x="15" y="109" width="301" height="56" frameX="0" frameY="-3" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0008" x="15" y="180" width="318" height="65" frameX="-4" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0009" x="15" y="180" width="318" height="65" frameX="-4" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0010" x="15" y="180" width="318" height="65" frameX="-4" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0011" x="15" y="180" width="318" height="65" frameX="-4" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0012" x="15" y="260" width="299" height="77" frameX="-2" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0013" x="15" y="260" width="299" height="77" frameX="-2" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0014" x="15" y="260" width="299" height="77" frameX="-2" frameY="0" frameWidth="322" frameHeight="79"/>
+	<SubTexture name="greenline0015" x="15" y="260" width="299" height="77" frameX="-2" frameY="0" frameWidth="322" frameHeight="79"/>
+</TextureAtlas>
