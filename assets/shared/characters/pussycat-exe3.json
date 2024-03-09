@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				416,
+				-72
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				-156,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "r"
+		},
+		{
+			"offsets": [
+				68,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d"
+		},
+		{
+			"offsets": [
+				-9,
+				333
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "i"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pussycat3",
+	"position": [
+		50,
+		180
+	],
+	"healthicon": "pussy",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		95,
+		255
+	],
+	"camera_position": [
+		-50,
+		80
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}

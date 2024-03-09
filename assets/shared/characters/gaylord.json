@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-139
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				73
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gaylord",
+	"position": [
+		120,
+		250
+	],
+	"healthicon": "gaylord",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		132,
+		152
+	],
+	"camera_position": [
+		-20,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

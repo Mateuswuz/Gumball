@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				406,
+				278
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				196
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				314,
+				183
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				376,
+				377
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"offsets": [
+				260,
+				220
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "i"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bandana_jo",
+	"position": [
+		390,
+		420
+	],
+	"healthicon": "jo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		218,
+		46
+	],
+	"camera_position": [
+		-480,
+		-140
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				436,
+				288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "l"
+		},
+		{
+			"offsets": [
+				104,
+				213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "r"
+		},
+		{
+			"offsets": [
+				272,
+				176
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "d"
+		},
+		{
+			"offsets": [
+				336,
+				367
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "u"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				260,
+				220
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joe_king",
+	"position": [
+		350,
+		470
+	],
+	"healthicon": "jo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		218,
+		46
+	],
+	"camera_position": [
+		-290,
+		-150
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 0.7
+}

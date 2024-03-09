@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "I",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "L",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "U",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-144,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "R",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nicol",
+	"position": [
+		50,
+		0
+	],
+	"healthicon": "nicol",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		181,
+		255
+	],
+	"camera_position": [
+		-150,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-71
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-170
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				10
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				40
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "altright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-40
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "altleaft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				-70,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "altup"
+		},
+		{
+			"offsets": [
+				490,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "altright"
+		},
+		{
+			"offsets": [
+				290,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "altleaft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/richard",
+	"position": [
+		-230,
+		-70
+	],
+	"healthicon": "richa2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		201,
+		212
+	],
+	"camera_position": [
+		90,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
