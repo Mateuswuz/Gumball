@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="booming.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="booming0000" x="15" y="15" width="311" height="633" frameX="-44" frameY="-78" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0001" x="15" y="15" width="311" height="633" frameX="-44" frameY="-78" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0002" x="341" y="15" width="583" height="739"/>
+	<SubTexture name="booming0003" x="341" y="15" width="583" height="739"/>
+	<SubTexture name="booming0004" x="939" y="15" width="570" height="731" frameX="-8" frameY="-2" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0005" x="939" y="15" width="570" height="731" frameX="-8" frameY="-2" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0006" x="1524" y="15" width="271" height="677" frameX="-7" frameY="-40" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0007" x="1524" y="15" width="271" height="677" frameX="-7" frameY="-40" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0008" x="1810" y="15" width="0" height="0" frameX="0" frameY="-16" frameWidth="583" frameHeight="739"/>
+	<SubTexture name="booming0009" x="1810" y="15" width="0" height="0" frameX="0" frameY="-16" frameWidth="583" frameHeight="739"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="geyseranai.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="15" y="15" width="1438" height="1206" frameX="-38" frameY="0" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0001" x="15" y="15" width="1438" height="1206" frameX="-38" frameY="0" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0002" x="1468" y="15" width="1280" height="1101" frameX="-113" frameY="-51" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0003" x="1468" y="15" width="1280" height="1101" frameX="-113" frameY="-51" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0004" x="15" y="1236" width="1486" height="1138" frameX="0" frameY="-60" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0005" x="15" y="1236" width="1486" height="1138" frameX="0" frameY="-60" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0006" x="1516" y="1236" width="1451" height="1126" frameX="-12" frameY="-59" frameWidth="1486" frameHeight="1206"/>
+	<SubTexture name="idle0007" x="1516" y="1236" width="1451" height="1126" frameX="-12" frameY="-59" frameWidth="1486" frameHeight="1206"/>
+</TextureAtlas>
